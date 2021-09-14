@@ -1,0 +1,3 @@
+Yunus Emre Çiçek: 80,80,85
+Enes Emir Çiçek: 90,90,95
+Ali Fuat: 85,70,80
